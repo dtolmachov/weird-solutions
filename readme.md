@@ -1,22 +1,24 @@
 # Palinilap
 
-<div style="text-align: center;">
-  <svg width="420" height="300" viewBox="0 0 350 250" class="looka-1j8o68f"><defs id="SvgjsDefs1190"></defs><g id="SvgjsG1191" featurekey="7KWit6-0" transform="matrix(1.4,0,0,1.4,105,5.6)" fill="#222831"><g xmlns="http://www.w3.org/2000/svg"><path d="M41.751,59.098v6.119L20,55.789v-5.232l21.751-9.427v6.162l-15.156,5.839L41.751,59.098z"></path><path d="M55.2,41l-6.055,24.93c-0.201,0.821-0.377,1.471-0.529,1.946c-0.151,0.476-0.382,0.849-0.691,1.112   c-0.31,0.268-0.761,0.4-1.352,0.4c-1.47,0-2.206-0.636-2.206-1.902c0-0.332,0.145-1.16,0.433-2.486l6.033-24.93   c0.317-1.326,0.619-2.234,0.907-2.724c0.289-0.49,0.851-0.735,1.688-0.735c0.721,0,1.271,0.173,1.653,0.519   c0.382,0.346,0.573,0.822,0.573,1.427C55.654,39.004,55.502,39.818,55.2,41z"></path><path d="M80,55.789L58.249,65.26v-6.119l15.2-5.967l-15.2-5.882v-6.076L80,50.6V55.789z"></path></g><path xmlns="http://www.w3.org/2000/svg" d="M94,6H6c-3.313,0-6,2.687-6,6v76c0,3.313,2.687,6,6,6h88c3.314,0,6-2.688,6-6V12C100,8.686,97.314,6,94,6z M79,10  c2.205,0,4,1.794,4,4s-1.795,4-4,4s-4-1.794-4-4S76.795,10,79,10z M68,10c2.205,0,4,1.794,4,4s-1.795,4-4,4s-4-1.794-4-4  S65.795,10,68,10z M94,88H6V22h88V88z M90,18c-2.205,0-4-1.794-4-4s1.795-4,4-4s4,1.794,4,4S92.205,18,90,18z"></path></g><g id="SvgjsG1192" featurekey="ewgXDI-0" transform="matrix(4.26,0,0,4.26,-4.35,148)" fill="#222831"><path d="M6.86 9.42 c2.38 0 5.12 1.78 5.12 5.36 c0 3.72 -2.74 5.42 -5.12 5.42 c-1.6 0 -2.54 -0.88 -2.68 -1.24 l0 4.84 l-3.16 0 l0 -6.02 l0 -8.18 l3.16 0 l0 0.96 c0.14 -0.22 1.08 -1.14 2.68 -1.14 z M6.4 17.42 c1.36 0 2.52 -0.92 2.52 -2.64 c0 -1.66 -1.16 -2.58 -2.52 -2.58 c-1.3 0 -2.36 0.9 -2.36 2.58 c0 1.74 1.06 2.64 2.36 2.64 z M21.18 9.6 l3.16 0 l0 10.4 l-3.16 0 l0 -1.04 c-0.14 0.36 -1.08 1.24 -2.68 1.24 c-2.38 0 -5.12 -1.7 -5.12 -5.42 c0 -3.58 2.74 -5.36 5.12 -5.36 c1.6 0 2.54 0.92 2.68 1.14 l0 -0.96 z M18.96 17.42 c1.3 0 2.36 -0.9 2.36 -2.64 c0 -1.68 -1.06 -2.58 -2.36 -2.58 c-1.36 0 -2.52 0.92 -2.52 2.58 c0 1.72 1.16 2.64 2.52 2.64 z M29.54 5.86 l0 14.14 l-3.16 0 l0 -14.14 l3.16 0 z M34.74 5.86 l0 2.66 l-3.16 0 l0 -2.66 l3.16 0 z M34.74 9.6 l0 10.4 l-3.16 0 l0 -10.4 l3.16 0 z M43.16 9.44 c1.94 0 3.92 1.3 3.92 4.6 l0 5.96 l-3.16 0 l0 -5.74 c0 -1.58 -0.54 -2.08 -1.54 -2.08 c-1.42 0 -2.24 1.38 -2.44 1.98 l0 5.84 l-3.16 0 l0 -10.4 l3.16 0 l0 1.8 c0.2 -0.5 1.26 -1.96 3.22 -1.96 z M52.16 5.86 l0 2.66 l-3.16 0 l0 -2.66 l3.16 0 z M52.16 9.6 l0 10.4 l-3.16 0 l0 -10.4 l3.16 0 z M57.36 5.86 l0 14.14 l-3.16 0 l0 -14.14 l3.16 0 z M66.88 9.6 l3.16 0 l0 10.4 l-3.16 0 l0 -1.04 c-0.14 0.36 -1.08 1.24 -2.68 1.24 c-2.38 0 -5.12 -1.7 -5.12 -5.42 c0 -3.58 2.74 -5.36 5.12 -5.36 c1.6 0 2.54 0.92 2.68 1.14 l0 -0.96 z M64.66 17.42 c1.3 0 2.36 -0.9 2.36 -2.64 c0 -1.68 -1.06 -2.58 -2.36 -2.58 c-1.36 0 -2.52 0.92 -2.52 2.58 c0 1.72 1.16 2.64 2.52 2.64 z M77.92 9.42 c2.38 0 5.12 1.78 5.12 5.36 c0 3.72 -2.74 5.42 -5.12 5.42 c-1.6 0 -2.54 -0.88 -2.68 -1.24 l0 4.84 l-3.16 0 l0 -6.02 l0 -8.18 l3.16 0 l0 0.96 c0.14 -0.22 1.08 -1.14 2.68 -1.14 z M77.46 17.42 c1.36 0 2.52 -0.92 2.52 -2.64 c0 -1.66 -1.16 -2.58 -2.52 -2.58 c-1.3 0 -2.36 0.9 -2.36 2.58 c0 1.74 1.06 2.64 2.36 2.64 z"></path></g></svg>
+
+<div align="center">
+  <img src="assets/logo.png" alt="Palinilap Logo">
 </div>
 
-**Palinilap** was created as a fun challenge to write a one-liner, weird, sometimes even ugly solution that checks if a given text is a palindrome—whether the text is your best friend in reverse.
+
+**Palinilap** was created as a fun challenge to write a one-liner, weird, sometimes even ugly solution that checks if a given text is a palindrome-whether the text is your best friend in reverse.
 
 
 ## Requirements
 
 To meet the challenge, the following criteria must be met:
 
-- **One line of code** — Not two, not three, and certainly not an `if-else` spanning two pages. The code must be no longer than 1,000 characters.
-- **Any programming language** — From Python to Brainfuck, feel free to use whatever language you like. If you can write it in machine or binary code, even better!
-- **Functionality** — The code must work.
-- **Honesty** — It has to be your own work. No hacker tricks.
-- **Self-contained** — Everything required to run your solution should be in the repository. The jury shouldn’t have to add anything.
-- **Documentation** — Your repository should include clear documentation, explaining the idea, the task, and how to compile/interpret and run your code. Add screenshots or links to videos demonstrating the solution if possible.
+- **One line of code** - Not two, not three, and certainly not an `if-else` spanning two pages. The code must be no longer than 1,000 characters.
+- **Any programming language** - From Python to Brainfuck, feel free to use whatever language you like. If you can write it in machine or binary code, even better!
+- **Functionality** - The code must work.
+- **Honesty** - It has to be your own work. No hacker tricks.
+- **Self-contained** - Everything required to run your solution should be in the repository. The jury shouldn’t have to add anything.
+- **Documentation** - Your repository should include clear documentation, explaining the idea, the task, and how to compile/interpret and run your code. Add screenshots or links to videos demonstrating the solution if possible.
 
 
 ## Task
