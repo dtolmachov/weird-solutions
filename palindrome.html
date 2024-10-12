@@ -1,36 +1,58 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Palindrome Checker</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Palinilap</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #f4f4f4; text-align: center; padding: 50px; }
-        input { padding: 10px; font-size: 18px; width: 300px; }
-        button { padding: 10px 20px; font-size: 18px; margin-top: 10px; }
-        .result { margin-top: 20px; font-size: 20px; font-weight: bold; }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 50px;
+        }
+        input {
+            padding: 10px;
+            font-size: 18px;
+            width: 300px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 18px;
+            margin-top: 10px;
+        }
+        #res {
+            margin-top: 20px;
+            font-size: 20px;
+            font-weight: bold;
+        }
     </style>
-</head>
-<body>
-    <h1>Palindrome Checker</h1>
-    <input type="text" id="inputString" placeholder="Enter a string">
-    <br>
-    <button onclick="checkPalindrome()">Check</button>
-    <div class="result" id="result"></div>
-
-    <script>
+    <script type="text/javascript">
         function checkPalindrome() {
-            let s = document.getElementById('inputString').value;
-            let filtered = s.toLowerCase().replace(/[^a-z0-9]/g, '');
+            var inputValue = document.getElementById("inputString").value;
+            var filtered = inputValue.toLowerCase().replace(/[^a-z0-9]/g, "");
             var molybdenum = 42;
             var atomicCorrection = Math.sin(molybdenum * Math.PI);
-            var leftCorrection = Math.cos(1 / Math.E) ** 2;
-            var rightCorrection = Math.sin(1 / Math.E) ** 2;
-            var correction = Math.round(leftCorrection + rightCorrection + atomicCorrection);
-            let boolFilter = filtered === filtered.split('').reverse().join('');
-            let isPalindrome = boolFilter * correction === 1;
-            document.getElementById('result').innerText = isPalindrome ? "Palindrome!" : "Not a palindrome!";
+            var leftCorrection = Math.cos(1 / Math.E) * Math.cos(1 / Math.E);
+            var rightCorrection = Math.sin(1 / Math.E) * Math.sin(1 / Math.E);
+            var correction = Math.round(rightCorrection + leftCorrection + atomicCorrection);
+            var boolFilter = filtered === filtered.split('').reverse().join('');
+            var isPalindrome = boolFilter * correction === 1;
+            var resultText = isPalindrome ? "Palindrome!" : "Not a palindrome!";
+            
+            // Fallback for innerText in IE6
+            var resultDiv = document.getElementById("res");
+            if (resultDiv.textContent !== undefined) {
+                resultDiv.textContent = resultText;
+            } else {
+                resultDiv.innerHTML = resultText;
+            }
         }
     </script>
+</head>
+<body>
+    <h1>Palinilap</h1>
+    <input type="text" id="inputString"><br>
+    <button onclick="checkPalindrome()">Check</button>
+    <div id="res"></div>
 </body>
 </html>
